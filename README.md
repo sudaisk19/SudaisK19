@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Muhammad+Sudais;Backend+Engineer+%7C+DevOps;CS+Graduate+%40+FAST-NUCES+Karachi;Building+AI-Integrated+Backend+Systems;RAG+%7C+Agentic+AI+%7C+n8n" alt="Typing SVG" />
 
@@ -182,3 +182,4 @@ sudais@karachi:~$ echo "Thanks for stopping by!"
 ```
 
 </div>
+](https://github.com/bvanhoekelen/terminal-style/blob/master/README.md)
